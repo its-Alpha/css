@@ -73,3 +73,13 @@ background-color: teal;
 margin-top: 15px;
 }
 
+.footer{
+    width: 100%;
+    background-color: rgb(205, 50, 71);
+    margin-top: 2px;
+    font: bold;
+    font-size: large;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
